@@ -1,3 +1,3 @@
 https://glluna.github.io/single-page-cv/
-Currículo HTMl 
+Currículo HTML
 Obs: falta adicionar CSS
